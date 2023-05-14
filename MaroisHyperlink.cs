@@ -100,15 +100,4 @@ namespace Marois.Framework.Core.WPF.Controls
         }
         #endregion
     }
-
-    //public class LinkClickedEventArgs : RoutedEventArgs
-    //{
-    //    public string NewPath { get; private set; }
-
-    //    public LinkClickedEventArgs(RoutedEvent routedEvent, string newPath) :
-    //        base(routedEvent)
-    //    {
-    //        NewPath = newPath;
-    //    }
-    //}
 }

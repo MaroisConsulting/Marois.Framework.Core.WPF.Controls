@@ -1,4 +1,4 @@
-﻿using Marois.Frameworo.Core.Controls.Shared.Entities;
+﻿using Marois.Framework.Core.Controls.Shared.Entities;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

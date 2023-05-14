@@ -1,5 +1,5 @@
 ﻿using log4net.Core;
-using Marois.Frameworo.Core.Controls.Shared.Entities;
+using Marois.Framework.Core.Controls.Shared.Entities;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Windows;
